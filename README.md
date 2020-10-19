@@ -7,9 +7,9 @@
 
 <h4 align="center">:rocket: Tecnologias</h4>
 <p align="center">
-. Node.js
-. React
-. React Native
-. Expo
-. TypeScript
+<p align="center">• Node.js <p>
+<p align="center">• React<p>
+<p align="center">• ReactNative<p>
+<p align="center">• Expo<p>
+<p align="center">• TypeScript<p>
 <p>
