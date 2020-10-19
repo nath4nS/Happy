@@ -1,6 +1,4 @@
-<h1 align="center">
- <h2>Happy</h2>
-</h1>
+<h2 align="center">Happy</h2>
 
 <h4>:rocket: Projeto</h4>
 <p>• Desenvolvido durante a Next Level Week #3!<p>
