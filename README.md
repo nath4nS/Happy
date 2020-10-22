@@ -1,4 +1,6 @@
-<h2 align="center">Happy</h2>
+<h2 align="center">
+  <img src='./web/src/images/logo.svg' width='15%'>
+</h2>
 
 <h4 align="center">:rocket: Projeto</h4>
 <p align="center">• Desenvolvido durante a Next Level Week #3!<p>
