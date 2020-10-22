@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src='./web/src/images/logo.svg' width='15%'> Happy
+  Happy
 </h2>
 
 <h4 align="center">:rocket: Projeto</h4>
