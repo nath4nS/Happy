@@ -3,7 +3,7 @@
 </h2>
 
 <h4 align="center">:rocket: Projeto</h4>
-<p align="center">• Desenvolvido durante a Next Level Week#3<p>
+<p align="center">• Desenvolvido durante a Next Level Week #3<p>
 
 <h4 align="center">:rocket: Tecnologias</h4>
 <p align="center">• Node.js <p>
